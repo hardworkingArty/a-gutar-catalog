@@ -1,0 +1,65 @@
+[
+ 
+ {
+  "id": "el1",
+  "name": "AMERICAN ULTRA LUXE TELECASTER",
+  "img": "https://i.ibb.co/hds1Yw2/0118080735-fen-ins-frt-1-rr-1.jpg",
+  "price": 177000
+ },
+ {
+  "id": "el2",
+  "name": "AMERICAN ULTRA TELECASTER",
+  "img": "https://i.ibb.co/pxST6M5/0118030781-gtr-frt-001-rr.jpg",
+  "price": 195000
+ },
+ {
+  "id": "el3",
+  "name": "AMERICAN ORIGINAL 50S STRATOCASTER",
+  "img": "https://i.ibb.co/dcgRqCH/0110112803-gtr-frt-001-rr.jpg",
+  "price": 207000
+ },
+ {
+  "id": "el4",
+  "name": "AMERICAN PERFORMER STRATOCASTER HSS",
+  "img": "https://i.ibb.co/DRPVFVf/0114920345-gtr-frt-001-rr.jpg",
+  "price": 150000
+ },
+ 
+ {
+  "id": "el5",
+  "name": "VINTERA® 60S JAGUAR® MODIFIED HH",
+  "img": "https://i.ibb.co/4tgwCRY/0149813372-gtr-frt-001-rr.jpg",
+  "price": 136000
+ },
+ {
+  "id": "el6",
+  "name": "KURT COBAIN JAGUAR",
+  "img": "https://i.ibb.co/SswL3gK/0143001700-gtr-frt-001-rr.jpg",
+  "price": 154000
+ },
+ {
+  "id": "el7",
+  "name": "AMERICAN PROFESSIONAL II JAZZMASTER",
+  "img": "https://i.ibb.co/JKcycZH/0113970700-fen-ins-frt-1-rr.jpg",
+  "price": 179000
+ },
+ {
+  "id": "el8",
+  "name": "JIM ROOT JAZZMASTER",
+  "img": "https://i.ibb.co/JRpxN6P/0115300706-gtr-frt-001-rr.jpg",
+  "price": 200000
+ },
+ {
+  "id": "el9",
+  "name": "AMERICAN PERFORMER MUSTANG",
+  "img": "https://i.ibb.co/9957XbR/0115510372-gtr-frt-001-rr.jpg",
+  "price": 148000
+ },
+ {
+  "id": "el10",
+  "name": "2019 LIMITED EDITION MIJ TRADITIONAL 60S MUSTANG® LEFT-HANDED",
+  "img": "https://i.ibb.co/80xvDB1/5250020309-gtr-frt-01-rl.jpg",
+  "price": 158000
+ }
+
+]
